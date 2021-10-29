@@ -1,0 +1,40 @@
+{
+  "requirements": [
+    {
+      "description": "1 - Implemente a função `average`",
+      "bonus": false
+    },
+    {
+      "description": "2 - Implemente os casos de teste para a função `numbers`",
+      "bonus": false
+    },
+    {
+      "description": "3 - Implemente a função `vqv`",
+      "bonus": false
+    },
+    {
+      "description": "4 - Implemente os casos de teste para a função `circle`",
+      "bonus": false
+    },
+    {
+      "description": "5 - Implemente a função `createStudent`",
+      "bonus": false
+    },
+    {
+      "description": "6 - Implemente os casos de teste para a função `productDetails`",
+      "bonus": false
+    },
+    {
+      "description": "7 - Implemente a função `objCalculator`",
+      "bonus": false
+    },
+    {
+      "description": "8 - Implemente a função `myCounter`",
+      "bonus": false
+    },
+    {
+      "description": "9 - Implemente os casos de teste e a função `createMenu`",
+      "bonus": false
+    }
+  ]
+}
